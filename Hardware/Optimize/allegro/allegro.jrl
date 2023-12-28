@@ -1,0 +1,86 @@
+\t (00:00:08) allegro 17.4 S035 Windows SPB 64-bit Edition
+\t (00:00:08)     Journal start - Wed Dec 27 22:18:00 2023
+\t (00:00:08)         Host=HEROZHOU User=59427 Pid=10208 CPUs=12
+\t (00:00:08) CmdLine= d:\cadence\cadence\spb_17.4\tools\bin\allegro.exe F:\ST-LINK-V2\Hardware\Optimize\allegro\st-link-v2_pro_opt.brd
+\t (00:00:08) 
+   (00:00:09) Loading axlcore.cxt 
+\t (00:00:10) Opening existing design...
+\d (00:00:10) Design opened: F:/ST-LINK-V2/Hardware/Optimize/allegro/st-link-v2_pro_opt.brd
+\i (00:00:11) trapsize 1675
+\i (00:00:11) trapsize 1747
+\i (00:00:11) trapsize 1711
+\i (00:00:11) trapsize 1711
+\t (00:00:11) > Sending response DoneOpenBoard
+\i (00:00:12) generaledit 
+\i (00:01:29) zoom fit 
+\i (00:01:29) trapsize 1064
+\i (00:01:31) trapsize 419
+\i (00:01:33) zoom fit 
+\i (00:01:33) trapsize 591
+\i (00:01:35) 3d 
+\i (00:01:42) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 0 CAPC100X50X55L25N
+\i (00:01:42) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 1 CAPC160X80X90L30N
+\i (00:01:42) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 2 CAPC200X125X145L45N
+\i (00:01:42) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 3 "HDRV5W64P254_5X1_1270X254H860"
+\i (00:01:42) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 4 "HDRV8W64P254_4X2_1016X502H838"
+\i (00:01:42) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 5 "HEADER_2X1_2P54"
+\i (00:01:42) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 6 "HEADER_3X1_2P54"
+\i (00:01:42) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 7 "HEADER_4X1_2P54"
+\i (00:01:42) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 8 "HEADER_6X1_2P54"
+\i (00:01:42) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 9 LEDC160X80X70L30N
+\i (00:01:42) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 10 MTGP240H140
+\i (00:01:42) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 11 "QFP50P900X900X145-48N"
+\i (00:01:42) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 12 RESC100X50X40L25N
+\i (00:01:42) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 13 RESC160X80X55L30N
+\i (00:01:42) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 14 "SMD3215-2P"
+\i (00:01:42) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 15 "SMD5032-2P"
+\i (00:01:42) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 16 SOD265X130X110L32X32N
+\i (00:01:42) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 17 SODFL160X80X70L20X30N
+\i (00:01:42) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 18 "SODFL370X180X135L60_50X100N"
+\i (00:01:42) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 19 "SOT23-3P95_240X110L53X44N"
+\i (00:01:42) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 20 "SOT23-5"
+\i (00:01:42) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 21 "SW_SMD_4P_5D1X5D1"
+\i (00:01:42) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 22 "USB-C-SMD-16P"
+\i (00:01:42) generaledit 
+\i (00:01:54) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasMousePressEvent 2632 313 2632 358 1 1 +
+\i (00:01:54) QtSignal 0 "2303.15" "1831.1" "275.055"
+\i (00:01:54) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasMouseReleaseEvent 2632 313 2632 358 1 +
+\i (00:01:54) QtSignal 0 0 "2303.15" "1831.1" "275.055"
+\i (00:01:54) QtSignal pcb3dViewer pcb3dViewerCanvas keyPressEvent 16777235 536870912 false 1
+\i (00:01:56) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasMousePressEvent 2597 370 2597 415 1 1 +
+\i (00:01:56) QtSignal 0 "2296.58" "1767.04" "204.646"
+\i (00:01:56) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasMouseReleaseEvent 2597 370 2597 415 1 +
+\i (00:01:56) QtSignal 0 0 "2296.58" "1767.04" "204.646"
+\i (00:01:58) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasMousePressEvent 2511 403 2511 448 1 1 +
+\i (00:01:58) QtSignal 0 "2226.43" "1663.61" "163.882"
+\i (00:01:58) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasMouseReleaseEvent 2511 403 2511 448 1 +
+\i (00:01:58) QtSignal 0 0 "2226.43" "1663.61" "163.882"
+\i (00:01:59) QtSignal pcb3dViewer pcb3dViewerCanvas keyPressEvent 56 536870912 false 1 8
+\i (00:02:38) QtSignal pcb3dViewerFileMenu Export triggered
+\i (00:03:06) QtSignal pcb3dExport AQFileDialog finished 1
+\i (00:03:06) QtFillin "F:/ST-LINK-V2/Hardware/Optimize/allegro/ASM/TOP.png"
+\i (00:03:34) QtSignal pcb3dViewer pcb3dViewerCanvas keyPressEvent 50 536870912 false 1 2
+\i (00:04:01) QtSignal pcb3dViewerFileMenu Export triggered
+\i (00:04:11) QtSignal pcb3dExport AQFileDialog finished 1
+\i (00:04:11) QtFillin "F:/ST-LINK-V2/Hardware/Optimize/allegro/ASM/BOTTOM.png"
+\i (00:04:18) QtSignal pcb3dViewer pcb3dViewer closed
+\i (00:04:28) pdf out 
+\i (00:04:32) setwindow form.pdf_out
+\i (00:04:32) FORM pdf_out pdftree  ASSEMBLY_TOP 
+\i (00:04:32) FORM pdf_out pdftree 'MULTISEL YES' ASSEMBLY_TOP 
+\i (00:04:33) FORM pdf_out pdftree  ASSEMBLY_BOTTOM 
+\i (00:04:33) FORM pdf_out pdftree 'MULTISEL YES' ASSEMBLY_BOTTOM 
+\i (00:04:40) FORM pdf_out pdftree  PDF_A_TOP 
+\i (00:04:40) FORM pdf_out pdftree 'MULTISEL YES' PDF_A_TOP 
+\i (00:04:40) FORM pdf_out pdftree  PDF_A_BOTTOM 
+\i (00:04:40) FORM pdf_out pdftree 'MULTISEL YES' PDF_A_BOTTOM 
+\i (00:04:51) FORM pdf_out export  
+\t (00:04:51) Starting Exporting PDF File...
+\t (00:04:55) PDF output completed.
+\i (00:05:13) FORM pdf_out cancel  
+\i (00:05:13) setwindow pcb
+\i (00:05:13) generaledit 
+\i (00:06:36) exit 
+\e (00:06:36) Do you want to save the changes you made to st-link-v2_pro_opt.brd?
+\i (00:06:37) fillin yes 
+\t (00:06:39)     Journal end - Wed Dec 27 22:24:31 2023
